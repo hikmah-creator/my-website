@@ -1,0 +1,13 @@
+body{
+    color: #40514e;
+    margin: 0;
+    text-align:center;
+    font-family: "Merriweather", serif;
+
+}
+
+.contact-container{
+    padding:100px;
+    position:relative;
+
+}
